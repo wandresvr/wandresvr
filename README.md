@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilson Vargas</h1>
 <h3 align="center">I'm Rpa developer and passionate Python developer</h3>
 
-- 💬 Ask me about **Python, UiPAth**
+- 💬 Ask me about **Python, UiPath, Automation Anywhere, Arduino**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

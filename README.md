@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson Vargas</h1>
-<h3 align="center">I'm Rpa developer and passionate Python developer</h3>
+<h3 align="center">I'm RPA developer and passionate Python developer</h3>
 
 As a UiPath RPA Developer, I design, develop, and deploy automated solutions for various business processes using UiPath Studio, Orchestrator, and Robot. I also leverage my Python and machine learning skills to enhance the efficiency and accuracy of the automation projects, such as invoice processing, data extraction, and customer service.
 
